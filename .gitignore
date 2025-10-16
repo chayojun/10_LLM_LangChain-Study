@@ -1,3 +1,4 @@
 .env
 .venv
 00_data
+10_agent_result
